@@ -1,0 +1,17 @@
+# EcoAgriPriceDiscovery
+
+**Team Details**
+
+
+Team Name: TTPD
+
+Team Leader Name: Vedang Bhole
+
+Problem Statement:Empowering Farmers Through Price Discovery
+
+We saw that farmers struggle a lot with Price Discovery as there is no fair way for them to know the real time end consumer pricing. Also no tool for them to negotiate. Hence we made an app that has:
+Real-Time Live Pricing: Creating an algorithm which uses both ONDC information and end consumers price, we can update the price of crops, vegetables, fruits in real time. With live ONDC and end consumer transactions we can subtract the average wholesaler and seller margin and give them live pricing, which can update every few seconds.
+In App Yield Selling: The farmers have the direct option to sell their yield based on live pricing for as many crops, vegetables, fruits they want.
+Live Negotiations : After placing the order the farmers can do live negotiations with many different sellers as they would compete to offer the farmer their best price. Whichever price the farmer likes he can simply accept the offer and wait for the payout.
+Multilanguage Support: The farmers have the option to use the app in many languages like English, Hindi, Marathi (soon to come), etc.
+Our app also has an Individual Crop Price Analysis screen where farmer can track the price analysis of crops, vegetables, fruits individually giving him an future prediction for his next harvest. They can also see the difference and track rate of end consumer pricing to get an idea of the trend.
